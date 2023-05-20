@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(49 70 113);
+    text-align: center;
+    font-family: Helvetica;
+    background-image: url(/img/man-g005e8dfd5_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: hard-light;
+    background-color:rgba(0, 0, 0, 0.5)
+}
+#lf{
+    background-color: white;
+    border-radius: 5px;
+    height: 290px;
+    width: 355px;
+    text-align: center;
+    margin-left: 575px;
+    box-shadow: 6px 9px 14PX black;
+}
+.wh{
+    color: white;
+}
+button{
+    width: 320px;
+    height: 28px;
+    background-color: rgb(29, 188, 135);
+    border-radius: 8px;
+    color: white;
+    font-weight: 200;
+    border: none;
+    height: 30px;
+    
+}
+.lft{
+    text-align: left;
+    /* border: 2px solid black; */
+    margin-left: 16px;
+    width: 312px;
+    height: 50px;
+}
+.alt{
+    color: rgb(29, 188, 135);
+    
+}
+button:hover{
+    background-color: rgb(80, 205, 163);
+}
+input{
+    height: 25px;
+    width: 315px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+button{
+    color: white;
+    cursor: pointer;
+}
+h1{
+    padding-top: 15px;
+
+}
